@@ -25,6 +25,9 @@ An application like 'Insomnia' may be used to test API routes:
 
 ![Screenshot of routes being tested in Insomnia application](./assets/screenshot.png)
 
+## Video Walkthrough
+https://watch.screencastify.com/v/4M5xvHCH2yqpW0epeSwc
+
 ## License
 All assets and code are under MIT License unless specified otherwise.
 
