@@ -10,6 +10,7 @@ The back-end of an ecommerce website, with a database containing tables for prod
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
+- [Video Walkthrough](#walktrough)
 - [License](#license)
 - [Questions](#questions)
 
@@ -25,7 +26,7 @@ An application like 'Insomnia' may be used to test API routes:
 
 ![Screenshot of routes being tested in Insomnia application](./assets/screenshot.png)
 
-## Video Walkthrough
+## Walkthrough
 https://watch.screencastify.com/v/4M5xvHCH2yqpW0epeSwc
 
 ## License
