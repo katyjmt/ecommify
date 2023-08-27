@@ -18,7 +18,7 @@ router.get('/', async (req, res) => {
 // GET Category by Specified ID
 router.get('/:id', async (req, res) => {
   try {
-    const singleCategoryData = await Tag.findByPk(req.params.id, {
+    const singleCategoryData = await Category.findByPk(req.params.id, {
       include: [{ model: Product }],
     });
     if (!singleCategoryData) {
